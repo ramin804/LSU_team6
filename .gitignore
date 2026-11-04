@@ -1,0 +1,6 @@
+# Simulation outputs (regenerate with iverilog / vvp)
+*.vcd
+*.vvp
+tb_store_memory
+tb_lsu_top
+tb_omar
